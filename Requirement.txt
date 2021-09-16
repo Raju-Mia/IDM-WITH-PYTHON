@@ -1,0 +1,15 @@
+THIS IS SIMPLE  IDM PROJECT.
+YouTube videos can be downloaded in this project.
+
+Meaning of file:
+IDM_python-simple  idm
+Y_IDM_python- youtube idm
+Y_MVD_IDM_python- youtube multiple video download idm
+Y_SVD_IDM_python- youtube single video download idm
+
+
+STEP:
+Open any file WITH PYTHON ANY EDITOR(LIKE-VS CODE).
+SIMPLE RUN THE PROJECT.
+THEN ENJOY--
+THANK YOU -RM
